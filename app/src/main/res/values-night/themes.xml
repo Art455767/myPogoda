@@ -1,0 +1,9 @@
+<resources>
+    <style name="Base.Theme.myPogoda" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryVariant">@color/green</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.myPogoda" parent="Base.Theme.myPogoda" />
+</resources>
